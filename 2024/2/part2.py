@@ -38,6 +38,6 @@ for report in raw:
         
         if safe:
             cnt += 1
-            continue
+            break
     
 print(cnt)
