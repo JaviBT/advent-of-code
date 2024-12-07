@@ -1,5 +1,3 @@
-import re
-
 raw = open('input.dat').readlines()
 raw = [line.strip() for line in raw]
 
