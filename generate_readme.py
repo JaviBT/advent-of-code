@@ -50,7 +50,7 @@ Welcome to my Advent of Code solutions!
                     readme_content += "|-----|---------|-------------------|-------------------|\n"
 
                     # Iterate through each day directory inside the language directory
-                    for day in sorted(os.listdir(lang_path)):
+                for day in sorted((x for x in os.listdir(lang_path) if x.isdigit()), key=lambda x: int(x)):
                         if os.path.isdir(os.path.join(lang_path, day)) and day.isdigit():
                             problem_title = get_problem_title(year, day, lang_dir)  # Get the problem title
                             problem_url = f"https://adventofcode.com/{year}/day/{day}"
@@ -63,7 +63,7 @@ Welcome to my Advent of Code solutions!
                             part2_solution = f"./{year}/{lang_dir}/{day}/{part2_file}" if part2_file else "Not Available"
                             
                             # Add row for this day
-                            readme_content += f"| {day} | [{problem_title}]({problem_url}) | [Part 1 Solution]({part1_solution}) | [Part 2 Solution]({part2_solution}) |\n"
+                            readme_content += f"| {int(day)} | [{problem_title}]({problem_url}) | [Part 1 Solution]({part1_solution}) | [Part 2 Solution]({part2_solution}) |\n"
             
             # Close the details section for the current year
             readme_content += "\n</details>\n"
