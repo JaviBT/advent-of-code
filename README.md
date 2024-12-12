@@ -22,5 +22,6 @@ Welcome to my Advent of Code solutions!
 | 9 | [Day 9: Disk Fragmenter](https://adventofcode.com/2024/day/9) | [Part 1 Solution](./2024/python/9/part1.py) | [Part 2 Solution](./2024/python/9/part2.py) |
 | 10 | [Day 10: Hoof It](https://adventofcode.com/2024/day/10) | [Part 1 Solution](./2024/python/10/part1.py) | [Part 2 Solution](./2024/python/10/part2.py) |
 | 11 | [Day 11: Plutonian Pebbles](https://adventofcode.com/2024/day/11) | [Part 1 Solution](./2024/python/11/part1.py) | [Part 2 Solution](./2024/python/11/part2.py) |
+| 12 | [Day 12: Garden Groups](https://adventofcode.com/2024/day/12) | [Part 1 Solution](./2024/python/12/part1.py) | [Part 2 Solution](./2024/python/12/part2.py) |
 
 </details>
