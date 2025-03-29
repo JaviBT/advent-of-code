@@ -64,7 +64,7 @@ Welcome to my Advent of Code solutions!
                             part2_solution = f"./{year}/{lang_dir}/{day}/{part2_file}" if part2_file else "Not Available"
                             
                             # Add row for this day
-                            readme_content += f"| {int(day)} | [{problem_title}]({problem_url}) | [Part 1 Solution]({part1_solution}) | [Part 2 Solution]({part2_solution}) |\n"
+                            readme_content += f"| {int(day)} | [{problem_title}]({problem_url}) | [Part 1 Solution]({part1_solution}) | {"[Part 2 Solution](" + part2_solution + ")" if part2_solution != "Not Available" else part2_solution} |\n"
             
             # Close the details section for the current year
             readme_content += "\n</details>\n"

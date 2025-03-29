@@ -15,7 +15,7 @@ Welcome to my Advent of Code solutions!
 | 2 | [Day 2: Red-Nosed Reports](https://adventofcode.com/2024/day/2) | [Part 1 Solution](./2024/go/2/part1.go) | [Part 2 Solution](./2024/go/2/part2.go) |
 | 3 | [Day 3: Mull It Over](https://adventofcode.com/2024/day/3) | [Part 1 Solution](./2024/go/3/part1.go) | [Part 2 Solution](./2024/go/3/part2.go) |
 | 4 | [Day 4: Ceres Search](https://adventofcode.com/2024/day/4) | [Part 1 Solution](./2024/go/4/part1.go) | [Part 2 Solution](./2024/go/4/part2.go) |
-| 5 | [Day 5: Print Queue](https://adventofcode.com/2024/day/5) | [Part 1 Solution](./2024/go/5/part1.go) | [Part 2 Solution](Not Available) |
+| 5 | [Day 5: Print Queue](https://adventofcode.com/2024/day/5) | [Part 1 Solution](./2024/go/5/part1.go) | Not Available |
 | 6 | [Day 6: Guard Gallivant](https://adventofcode.com/2024/day/6) | [Part 1 Solution](./2024/go/6/part1.go) | [Part 2 Solution](./2024/go/6/part2.go) |
 | 7 | [Day 7: Bridge Repair](https://adventofcode.com/2024/day/7) | [Part 1 Solution](./2024/go/7/part1.go) | [Part 2 Solution](./2024/go/7/part2.go) |
 #### 🐍 Python Solutions
