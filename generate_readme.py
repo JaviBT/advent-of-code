@@ -4,6 +4,7 @@ language_dic = {
     'python': '🐍 Python',
     'java': '☕ Java',
     'cpp': '💻 C++',
+    'go': '🦫 Go',
     # Add more languages if necessary
 }
 
