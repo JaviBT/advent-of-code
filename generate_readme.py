@@ -1,4 +1,6 @@
 import os
+import urllib.request
+import re
 
 language_dic = {
     'python': '🐍 Python',
@@ -8,14 +10,34 @@ language_dic = {
     # Add more languages if necessary
 }
 
+def load_titles():
+    titles = {}
+    if os.path.exists("aoc_problem_titles.txt"):
+        current_year = None
+        with open("aoc_problem_titles.txt", "r") as f:
+            for line in f:
+                line = line.strip()
+                if line.startswith("[") and line.endswith("]"):
+                    current_year = line[1:-1]
+                    titles[current_year] = {}
+                elif line.startswith("Day ") and ":" in line and current_year:
+                    parts = line.split(":", 1)
+                    day_part = parts[0].strip()[4:] # Remove "Day "
+                    title_part = parts[1].strip()
+                    titles[current_year][day_part] = title_part
+    return titles
+
+problem_titles_cache = load_titles()
+
 def get_problem_title(year, day, lang_dir):
-    """Reads the first line of the problem.txt file to get the problem title."""
-    problem_file_path = os.path.join(year, lang_dir, str(day), "problem.txt")
-    try:
-        with open(problem_file_path, 'r') as file:
-            return file.readline().strip().split('--- ')[1].split(' ---')[0]  # Extract title
-    except FileNotFoundError:
-        return f"Problem for Day {day} not found"
+    # Try to get from cache first
+    year_str = str(year)
+    day_str = str(day)
+    if year_str in problem_titles_cache and day_str in problem_titles_cache[year_str]:
+        return problem_titles_cache[year_str][day_str]
+    
+    # Fallback to default title
+    return f"AoC {year} - Day {day}"
 
 def find_solution_files(year, lang_dir, day):
     """Find the solution files in a specific directory and return their paths."""

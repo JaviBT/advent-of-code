@@ -1,0 +1,262 @@
+[2025]
+Day 1: Secret Entrance
+[2024]
+Day 1: Historian Hysteria
+Day 2: Red-Nosed Reports
+Day 3: Mull It Over
+Day 4: Ceres Search
+Day 5: Print Queue
+Day 6: Guard Gallivant
+Day 7: Bridge Repair
+Day 8: Resonant Collinearity
+Day 9: Disk Fragmenter
+Day 10: Hoof It
+Day 11: Plutonian Pebbles
+Day 12: Garden Groups
+Day 13: Claw Contraption
+Day 14: Restroom Redoubt
+Day 15: Warehouse Woes
+Day 16: Reindeer Maze
+Day 17: Chronospatial Computer
+Day 18: RAM Run
+Day 19: Linen Layout
+Day 20: Race Condition
+Day 21: Keypad Conundrum
+Day 22: Monkey Market
+Day 23: LAN Party
+Day 24: Crossed Wires
+Day 25: Code Chronicle
+[2023]
+Day 1: Trebuchet?!
+Day 2: Cube Conundrum
+Day 3: Gear Ratios
+Day 4: Scratchcards
+Day 5: If You Give A Seed A Fertilizer
+Day 6: Wait For It
+Day 7: Camel Cards
+Day 8: Haunted Wasteland
+Day 9: Mirage Maintenance
+Day 10: Pipe Maze
+Day 11: Cosmic Expansion
+Day 12: Hot Springs
+Day 13: Point of Incidence
+Day 14: Parabolic Reflector Dish
+Day 15: Lens Library
+Day 16: The Floor Will Be Lava
+Day 17: Clumsy Crucible
+Day 18: Lavaduct Lagoon
+Day 19: Aplenty
+Day 20: Pulse Propagation
+Day 21: Step Counter
+Day 22: Sand Slabs
+Day 23: A Long Walk
+Day 24: Never Tell Me The Odds
+Day 25: Snowverload
+[2022]
+Day 1: Calorie Counting
+Day 2: Rock Paper Scissors
+Day 3: Rucksack Reorganization
+Day 4: Camp Cleanup
+Day 5: Supply Stacks
+Day 6: Tuning Trouble
+Day 7: No Space Left On Device
+Day 8: Treetop Tree House
+Day 9: Rope Bridge
+Day 10: Cathode-Ray Tube
+Day 11: Monkey in the Middle
+Day 12: Hill Climbing Algorithm
+Day 13: Distress Signal
+Day 14: Regolith Reservoir
+Day 15: Beacon Exclusion Zone
+Day 16: Proboscidea Volcanium
+Day 17: Bounded Robot
+Day 18: Boiling Boulders
+Day 19: Not Enough Minerals
+Day 20: Grove Positioning System
+Day 21: Monkey Math
+Day 22: Monkey Map
+Day 23: Unstable Diffusion
+Day 24: Blizzard Basin
+Day 25: Full of Hot Air
+[2021]
+Day 1: Sonar Sweep
+Day 2: Dive!
+Day 3: Binary Diagnostic
+Day 4: Giant Squid
+Day 5: Hydrothermal Venture
+Day 6: Lanternfish
+Day 7: The Treachery of Whales
+Day 8: Seven Segment Search
+Day 9: Smoke Basin
+Day 10: Syntax Scoring
+Day 11: Dumbo Octopus
+Day 12: Passage Pathing
+Day 13: Care Package
+Day 14: Extended Polymerization
+Day 15: Chiton
+Day 16: Packet Decoder
+Day 17: Trick Shot
+Day 18: Snailfish
+Day 19: A Beacon Scanner
+Day 20: Trench Map
+Day 21: Dirac Dice
+Day 22: Reactor Reboot
+Day 23: Amphipod
+Day 24: Arithmetic Logic Unit
+Day 25: Sea Cucumber
+[2020]
+Day 1: Report Repair
+Day 2: Password Philosophy
+Day 3: Toboggan Trajectory
+Day 4: Passport Processing
+Day 5: Binary Boarding
+Day 6: Custom Customs
+Day 7: Handy Haversacks
+Day 8: Handheld Halting
+Day 9: Encoding Error
+Day 10: Adapter Array
+Day 11: Seating System
+Day 12: Rain Risk
+Day 13: Shuttle Search
+Day 14: Docking Data
+Day 15: Rambunctious Recitation
+Day 16: Ticket Translation
+Day 17: Conway Cubes
+Day 18: Operation Order
+Day 19: Monster Messages
+Day 20: Jurassic Jigsaw
+Day 21: Allergen Assessment
+Day 22: Crab Combat
+Day 23: Crab Cups
+Day 24: Lobby Layout
+Day 25: Combo Breaker
+[2019]
+Day 1: The Tyranny of the Rocket Equation
+Day 2: 1202 Program Alarm
+Day 3: Crossed Wires
+Day 4: Secure Container
+Day 5: Sunny with a Chance of Asteroids
+Day 6: Universal Orbit Map
+Day 7: Amplification Circuit
+Day 8: Space Image Format
+Day 9: Sensor Boost
+Day 10: Monitoring Station
+Day 11: Space Police
+Day 12: The N-Body Problem
+Day 13: Care Package
+Day 14: Space Stoichiometry
+Day 15: Oxygen System
+Day 16: Flawed Frequency Transmission
+Day 17: Set and Forget
+Day 18: Many-Worlds Interpretation
+Day 19: A Series of Tubes
+Day 20: Donut Maze
+Day 21: Springdroid Adventure
+Day 22: Slam Shuffle
+Day 23: N-Body Simulation
+Day 24: Planet of Discord
+Day 25: Cryostasis
+[2018]
+Day 1: Chronal Calibration
+Day 2: Inventory Management System
+Day 3: No Matter How You Slice It
+Day 4: Repose Record
+Day 5: Alchemical Reduction
+Day 6: Chronal Coordinates
+Day 7: The Sum of Its Parts
+Day 8: Memory Reallocation
+Day 9: Marble Mania
+Day 10: The Stars Align
+Day 11: Chronal Charge
+Day 12: Subterranean Sustainability
+Day 13: Mine Cart Madness
+Day 14: Chocolate Charts
+Day 15: Beverage Bandits
+Day 16: Chronal Conversion
+Day 17: Reservoir Research
+Day 18: Settlers of The North Pole
+Day 19: Go With The Flow
+Day 20: A Regular Map
+Day 21: Chronal Sight
+Day 22: Mode Maze
+Day 23: Experimental Emergency Teleportation
+Day 24: Immune System Simulator 20XX
+Day 25: Four-Dimensional Adventure
+[2017]
+Day 1: Inverse Captcha
+Day 2: Corruption Checksum
+Day 3: Spiral Memory
+Day 4: High-Entropy Passphrases
+Day 5: A Maze of Twisty Trampolines, All Alike
+Day 6: Signals and Noise
+Day 7: Recursive Circus
+Day 8: I Heard You Like Registers
+Day 9: Stream Processing
+Day 10: Knot Hash
+Day 11: Hex Ed
+Day 12: Digital Plumber
+Day 13: Packet Scanners
+Day 14: Disk Defragmentation
+Day 15: Dueling Generators
+Day 16: Permutation Promenade
+Day 17: Spinlock
+Day 18: Duet
+Day 19: A Series of Tubes
+Day 20: Particle Swarm
+Day 21: Fractal Art
+Day 22: Sporifica Virus
+Day 23: Emergency Teleportation
+Day 24: Moons of Mars
+Day 25: The Halting Problem
+[2016]
+Day 1: No Time for a Taxicab
+Day 2: Bathroom Security
+Day 3: Squares With Three Sides
+Day 4: Security Through Obscurity
+Day 5: How About a Nice Game of Chess?
+Day 6: Signals and Noise
+Day 7: The Treachery of Whales
+Day 8: Towers of Hanoi
+Day 9: Explosives in Cyberspace
+Day 10: Balance Bots
+Day 11: Radioisotope Thermoelectric Generators
+Day 12: The Instruction Manual
+Day 13: A Maze of Twisty Little Cubicles
+Day 14: One-Time Pad
+Day 15: Timing is Everything
+Day 16: Dragon Checksum
+Day 17: Two Steps Forward
+Day 18: Like a Rogue
+Day 19: A Firewall Rule
+Day 20: Firewall Rules
+Day 21: Scrambled Letters and Hash
+Day 22: Grid Computing
+Day 23: Safe Cracking
+Day 24: Air Duct Spelunking
+Day 25: Clock Signal
+[2015]
+Day 1: Not Quite Lisp
+Day 2: I Was Told There Would Be No Math
+Day 3: Perfectly Spherical Houses in a Vacuum
+Day 4: The Ideal Stocking Stuffer
+Day 5: Doesn't He Have Intern-Elves For This?
+Day 6: Definitely a Better Fireplace
+Day 7: Some Assembly Required
+Day 8: Matchsticks
+Day 9: All in a Single Night
+Day 10: Elves Look, Elves Say
+Day 11: Corporate Policy
+Day 12: JSAbacusFramework.io
+Day 13: Knights of the Dinner Table
+Day 14: Reindeer Olympics
+Day 15: Science for Hungry People
+Day 16: Permutations
+Day 17: Two Steps Forward
+Day 18: Like a GIF For Your Yard
+Day 19: An Elephant Named Joseph
+Day 20: Infinite Elves and Infinite Houses
+Day 21: RPG Simulator 2000
+Day 22: Wizard Simulator 20XX
+Day 23: Opening the Turing Lock
+Day 24: It Hangs in the Balance
+Day 25: Medicine for Rudolph
