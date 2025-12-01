@@ -17,6 +17,7 @@ Welcome to my Advent of Code solutions!
 | 4 | [Ceres Search](https://adventofcode.com/2024/day/4) | [Part 1 Solution](./2024/go/4/part1.go) | [Part 2 Solution](./2024/go/4/part2.go) |
 | 5 | [Print Queue](https://adventofcode.com/2024/day/5) | [Part 1 Solution](./2024/go/5/part1.go) | Not Available |
 | 6 | [Guard Gallivant](https://adventofcode.com/2024/day/6) | [Part 1 Solution](./2024/go/6/part1.go) | [Part 2 Solution](./2024/go/6/part2.go) |
+
 #### 🐍 Python Solutions
 
 | Day | Problem | Solution (Part 1) | Solution (Part 2) |
@@ -35,6 +36,7 @@ Welcome to my Advent of Code solutions!
 | 12 | [Garden Groups](https://adventofcode.com/2024/day/12) | [Part 1 Solution](./2024/python/12/part1.py) | [Part 2 Solution](./2024/python/12/part2.py) |
 | 13 | [Claw Contraption](https://adventofcode.com/2024/day/13) | [Part 1 Solution](./2024/python/13/part1.py) | [Part 2 Solution](./2024/python/13/part2.py) |
 
+
 </details>
 
 <details>
@@ -45,10 +47,12 @@ Welcome to my Advent of Code solutions!
 | Day | Problem | Solution (Part 1) | Solution (Part 2) |
 |-----|---------|-------------------|-------------------|
 | 1 | [Secret Entrance](https://adventofcode.com/2025/day/1) | [Part 1 Solution](./2025/go/1/part1.go) | [Part 2 Solution](./2025/go/1/part2.go) |
+
 #### 🐍 Python Solutions
 
 | Day | Problem | Solution (Part 1) | Solution (Part 2) |
 |-----|---------|-------------------|-------------------|
 | 1 | [Secret Entrance](https://adventofcode.com/2025/day/1) | [Part 1 Solution](./2025/python/1/part1.py) | [Part 2 Solution](./2025/python/1/part2.py) |
+
 
 </details>
