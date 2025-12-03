@@ -41,7 +41,7 @@ func joinDigits(digits []int) int {
 	return result
 }
 
-func maxNumber(line []int, k int) int {
+func maxKDigitsNumber(line []int, k int) int {
 	n := len(line)
 	resultDigits := []int{}
 	currentIndex := 0
@@ -80,7 +80,7 @@ func main() {
 
 	var total int
 	for _, line := range lines {
-		total += maxNumber(line, 12)
+		total += maxKDigitsNumber(line, 12)
 	}
 
 	fmt.Println(total)
