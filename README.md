@@ -49,7 +49,7 @@ Welcome to my Advent of Code solutions!
 | 1 | [Secret Entrance](https://adventofcode.com/2025/day/1) | [Part 1 Solution](./2025/go/1/part1.go) | [Part 2 Solution](./2025/go/1/part2.go) |
 | 2 | [Gift Shop](https://adventofcode.com/2025/day/2) | [Part 1 Solution](./2025/go/2/part1.go) | [Part 2 Solution](./2025/go/2/part2.go) |
 | 3 | [Lobby](https://adventofcode.com/2025/day/3) | [Part 1 Solution](./2025/go/3/part1.go) | [Part 2 Solution](./2025/go/3/part2.go) |
-| 4 | [AoC 2025 - Day 4](https://adventofcode.com/2025/day/4) | [Part 1 Solution](./2025/go/4/part1.go) | [Part 2 Solution](./2025/go/4/part2.go) |
+| 4 | [Printing Department](https://adventofcode.com/2025/day/4) | [Part 1 Solution](./2025/go/4/part1.go) | [Part 2 Solution](./2025/go/4/part2.go) |
 
 #### 🐍 Python Solutions
 
@@ -58,7 +58,7 @@ Welcome to my Advent of Code solutions!
 | 1 | [Secret Entrance](https://adventofcode.com/2025/day/1) | [Part 1 Solution](./2025/python/1/part1.py) | [Part 2 Solution](./2025/python/1/part2.py) |
 | 2 | [Gift Shop](https://adventofcode.com/2025/day/2) | [Part 1 Solution](./2025/python/2/part1.py) | [Part 2 Solution](./2025/python/2/part2.py) |
 | 3 | [Lobby](https://adventofcode.com/2025/day/3) | [Part 1 Solution](./2025/python/3/part1.py) | [Part 2 Solution](./2025/python/3/part2.py) |
-| 4 | [AoC 2025 - Day 4](https://adventofcode.com/2025/day/4) | [Part 1 Solution](./2025/python/4/part1.py) | [Part 2 Solution](./2025/python/4/part2.py) |
+| 4 | [Printing Department](https://adventofcode.com/2025/day/4) | [Part 1 Solution](./2025/python/4/part1.py) | [Part 2 Solution](./2025/python/4/part2.py) |
 
 
 </details>
