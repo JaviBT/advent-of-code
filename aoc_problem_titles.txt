@@ -3,6 +3,7 @@ Day 1: Secret Entrance
 Day 2: Gift Shop
 Day 3: Lobby
 Day 4: Printing Department
+Day 5: Cafeteria
 [2024]
 Day 1: Historian Hysteria
 Day 2: Red-Nosed Reports
