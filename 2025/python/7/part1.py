@@ -27,8 +27,6 @@ while beams:
     for r, c in beams:
         if r >= n:
             continue
-
-        tile = grid[r][c]
         
         nr = r + 1
         if nr >= n:
