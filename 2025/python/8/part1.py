@@ -52,7 +52,6 @@ for i in range(len(junktion_boxes)):
         heapq.heappush(distances_heap, (junktion_boxes[i].distance(junktion_boxes[j]), i, j))
 
 junk_circuits_map = {}
-not_connected = set(range(len(junktion_boxes)))
 circuits = []
 for _ in range(1000):
     if not distances_heap:
