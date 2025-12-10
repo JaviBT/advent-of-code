@@ -51,7 +51,9 @@ Welcome to my Advent of Code solutions!
 | 3 | [Lobby](https://adventofcode.com/2025/day/3) | [Part 1 Solution](./2025/go/3/part1.go) | [Part 2 Solution](./2025/go/3/part2.go) |
 | 4 | [Printing Department](https://adventofcode.com/2025/day/4) | [Part 1 Solution](./2025/go/4/part1.go) | [Part 2 Solution](./2025/go/4/part2.go) |
 | 5 | [Cafeteria](https://adventofcode.com/2025/day/5) | [Part 1 Solution](./2025/go/5/part1.go) | [Part 2 Solution](./2025/go/5/part2.go) |
-| 6 | [Trash Compactor](https://adventofcode.com/2025/day/6) | [Part 1 Solution](./2025/go/6/part1.go) | [Part 2 Solution](./2025/go/6/part2.go) |
+| 6 | [Trash Compactor](https://adventofcode.com/2025/day/6) | [Part 1 Solution](Not Available) | Not Available |
+| 9 | [Movie Theater](https://adventofcode.com/2025/day/9) | [Part 1 Solution](Not Available) | Not Available |
+| 10 | [Factory](https://adventofcode.com/2025/day/10) | [Part 1 Solution](Not Available) | Not Available |
 
 #### 🐍 Python Solutions
 
@@ -65,6 +67,8 @@ Welcome to my Advent of Code solutions!
 | 6 | [Trash Compactor](https://adventofcode.com/2025/day/6) | [Part 1 Solution](./2025/python/6/part1.py) | [Part 2 Solution](./2025/python/6/part2.py) |
 | 7 | [Laboratories](https://adventofcode.com/2025/day/7) | [Part 1 Solution](./2025/python/7/part1.py) | [Part 2 Solution](./2025/python/7/part2.py) |
 | 8 | [Playground](https://adventofcode.com/2025/day/8) | [Part 1 Solution](./2025/python/8/part1.py) | [Part 2 Solution](./2025/python/8/part2.py) |
+| 9 | [Movie Theater](https://adventofcode.com/2025/day/9) | [Part 1 Solution](./2025/python/9/part1.py) | [Part 2 Solution](./2025/python/9/part2.py) |
+| 10 | [Factory](https://adventofcode.com/2025/day/10) | [Part 1 Solution](./2025/python/10/part1.py) | [Part 2 Solution](./2025/python/10/part2.py) |
 
 
 </details>
