@@ -69,6 +69,7 @@ Welcome to my Advent of Code solutions!
 | 8 | [Playground](https://adventofcode.com/2025/day/8) | [Part 1 Solution](./2025/python/8/part1.py) | [Part 2 Solution](./2025/python/8/part2.py) |
 | 9 | [Movie Theater](https://adventofcode.com/2025/day/9) | [Part 1 Solution](./2025/python/9/part1.py) | [Part 2 Solution](./2025/python/9/part2.py) |
 | 10 | [Factory](https://adventofcode.com/2025/day/10) | [Part 1 Solution](./2025/python/10/part1.py) | [Part 2 Solution](./2025/python/10/part2.py) |
+| 11 | [Reactor](https://adventofcode.com/2025/day/11) | [Part 1 Solution](./2025/python/11/part1.py) | [Part 2 Solution](./2025/python/11/part2.py) |
 
 
 </details>
