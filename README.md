@@ -2,6 +2,8 @@
 # Advent of Code 🎄🎁
 Welcome to my Advent of Code solutions!
 
+<img src="./assets/2025/AoC25.webp" width="400" alt="Advent of Code 2025">
+
 ## Years
 
 <details>
