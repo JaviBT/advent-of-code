@@ -56,6 +56,8 @@ def generate_readme():
 # Advent of Code 🎄🎁
 Welcome to my Advent of Code solutions!
 
+<img src="./assets/2025/AoC25.webp" width="400" alt="Advent of Code 2025">
+
 ## Years
 """
     
@@ -76,7 +78,7 @@ Welcome to my Advent of Code solutions!
                 for day in sorted((x for x in os.listdir(lang_path) if x.isdigit()), key=lambda x: int(x)):
                         if os.path.isdir(os.path.join(lang_path, day)) and day.isdigit():
                             problem_title = get_problem_title(year, day, lang_dir)  # Get the problem title
-                            problem_url = f"https://adventofcode.com/{year}/day/{day}"
+                            problem_url = f"https://adventofcode.com/{year}/day/{int(day)}"
                             
                             # Find actual solution files
                             part1_file, part2_file = find_solution_files(year, lang_dir, day)
